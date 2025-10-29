@@ -1,7 +1,7 @@
 # Sou Welington Pereira,  
 
 ### 💻 Estou desenvolvendo um projeto de IA embarcada com a integração d Machine Learning (em andamento);  
-### 📖 Estudo python e INteliência Artificial;  
+### 📖 Estudo python e Inteligência Artificial;  
 ### 🦾 tambem trabalho com hardwares e mêcanica.
 
 ##
