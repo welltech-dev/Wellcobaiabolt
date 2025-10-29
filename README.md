@@ -8,7 +8,7 @@
 
 <div>
 <a href="https://github.com/WellingtonP.Silva">
-<img heigth="188em" src="https://github-readme-status-vercel.app/api?username=Wellington P. Silvas&how_icons=truetheme=dark&include_all_commits=ytrue&count_private=true">
+<img heigth="180em" src="https://github-readme-status.vercel.app/api?username=WellingtonP.Silva&show_icons=truetheme=dark&include_all_commits=true&count_private=true">
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Wellington-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
