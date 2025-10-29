@@ -7,9 +7,9 @@
 ##
 
 <div>
-<a href="https://github.com/WellingtonPereira">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WellingtonPereira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"∠>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonPereira&layout=compact&langs_count=16&theme=dark"∠>
+<a href="https://github.com/WellingtonP.Silva">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WellingtonP.Silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"∠>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonP.Silva&layout=compact&langs_count=16&theme=dark"∠>
 </div>
   
 <div style="display: inline_block"><br>
