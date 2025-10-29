@@ -22,19 +22,25 @@
   ##
   
 <div>
-  <a href="https://https://www.linkedin.com/in/wellington-pereira-7b50b3395/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://+5531986118454" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href="https://https://www.workana.com/talent/profile" target="_blank"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" target="_blank"></a> 
+  <a href="https://https://www.linkedin.com/in/wellington-pereira-7b50b3395/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="https://wa.me/5531986118454" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  </a> 
+  <a href="https://https://www.workana.com/talent/profile" target="_blank">
+    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" target="_blank">
+  </a> 
 </div>  
 
-## 🌟 contate-me
+## 🌟 contate-me:
 <a href="https://github.com/welltech-dev">
      
 <a href="https://twitter.com/devcutup">
     <img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter&logoColor=white">
 </a>
 <a href="https://wa.me/5531986118454">
-    <img src="https://img.shields.io/badge/Whatsapp-green_lemon?style=flat-square&logo=whatsapp&logoColor=white">
+    <img src="https://img.shields.io/badge/Whatsapp-25D366?style=flat-square&logo=whatsapp&logoColor=white">
 </a>
 <a href='https://t.me/DevCutup' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&&color=0181FF'>
