@@ -21,10 +21,10 @@
 </div>
   
   ##
- 
+  
 <div>
   <a href="https://https://www.linkedin.com/in/wellington-pereira-7b50b3395/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" target="_blank"></a> 
-  <a href="https://https://www.workana.com/talent/profile" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=workana&logoColor=white" target="_blank"></a> 
+  <a href="https://+5531986118454" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://https://www.workana.com/talent/profile" target="_blank"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" target="_blank"></a> 
 </div>  
 
