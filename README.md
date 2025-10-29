@@ -2,7 +2,7 @@
 
 ### 💻 Estou desenvolvendo um projeto de IA embarcada com a integração de Machine Learning (em andamento);  
 ### 📖 Estudo Python e Inteligência Artificial;  
-### 🦾 tambem trabalho com hardwares e mêcanica.
+### 🦾 tambem trabalho com hardwares, componentes eletrônicos, soldagem e mêcanica em geral.
 
 ##
 
